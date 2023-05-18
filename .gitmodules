@@ -1,5 +1,3 @@
-[submodule "matlab/vpc_library"]
-	path = matlab/vpc_library
-	url = https://gitlab.com/FJT_Lab/research/vpc/visual-pursuit-control.git
 [submodule "matlab/vpc-library"]
+	path = matlab/vpc-library
 	url = https://github.com/marciska/vpc-library.git
