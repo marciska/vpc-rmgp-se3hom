@@ -1,0 +1,48 @@
+#################################################
+# Project files and folders
+#################################################
+
+# only include data by explicit git adding
+data/
+
+# only include media by explicit git adding
+media/
+
+#################################################
+# MATLAB generated files & others
+#################################################
+
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+
+# Generated helpsearch folders
+helpsearch*/
+
+# Simulink code generation folders
+slprj/
+sccprj/
+
+# Matlab code generation folders
+codegen/
+
+# Simulink autosave extension
+*.autosave
+
+# Simulink cache files
+*.slxc
+
+# Simulink bus cache
++bus_conv_fcns/
+
+# Octave session info
+octave-workspace

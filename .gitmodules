@@ -1,0 +1,3 @@
+[submodule "matlab/vpc_library"]
+	path = matlab/vpc_library
+	url = https://gitlab.com/FJT_Lab/research/vpc/visual-pursuit-control.git
